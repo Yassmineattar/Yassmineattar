@@ -4,8 +4,8 @@
 <p>- 💞️ I’m looking to collaborate on any kind of project that you think aligns with my interests and skills.</p>
 <p>- 📫 You can reach me through the following channels:</p>
 
-<p>Email: yassmineattar13@gmail.com</p>
-<p>LinkedIn: [Yassmine Attar](https://www.linkedin.com/in/yassmine-attar-8bb1b9244?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BNohpYfogScqcilGkBNBq3Q%3D%3D)</p>
+<b>Email:</b> yassmineattar13@gmail.com
+<b>LinkedIn:</b> [Yassmine Attar](https://www.linkedin.com/in/yassmine-attar-8bb1b9244?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BNohpYfogScqcilGkBNBq3Q%3D%3D)
 
 <!---
 Yassmineattar/Yassmineattar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
