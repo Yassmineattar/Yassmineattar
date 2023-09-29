@@ -1,7 +1,7 @@
 <h2>- 👋 Hi, I’m @Yassmineattar! Welcome to my GitHub profile.</h2>
-<p>- 👀 I am a passionate software developer with a keen interest in exploring new technologies and building innovative solutions.</p>
+<p>- 👀 I am a passionate software engineering student with a keen interest in exploring new technologies and building innovative solutions.</p>
 <p>- 🌱 I’m currently an engineering student at ENSAM Casablanca and at ALX and I am focusing on starting a journey and expanding my knowledge and skills in different areas mainly in C Python and web development...</p>
-<p>- 💞️ I’m looking to collaborate on any kind of project that you think aligns with my interests and skills.</p>
+<p>- 💞️ I’m looking to collaborate on any project that you think aligns with my interests and skills.</p>
 <p>- 📫 You can reach me through the following channels:</p>
 
 <b>Email:</b> yassmineattar13@gmail.com
