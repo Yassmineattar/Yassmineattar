@@ -4,7 +4,7 @@
 <p>- 🌱 I’m currently an engineering student at ENSAM Casablanca and at ALX and I am focusing on starting a journey and expanding my knowledge and skills in different areas mainly in Algorithms and web development...</p>
 <p>- 💞️ I’m looking to collaborate on any project that you think aligns with my interests and skills.</p>
 <p>- 📫 You can contact me through the following channels:</p>
-<a href="https://discord.com/users/yassmine004()" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
+<p><a href="https://discord.com/users/yassmine004()" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
 <a href="https://www.linkedin.com/in/yassmine-attar-8bb1b9244/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"><a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
