@@ -4,7 +4,6 @@
 <p>- 🌱 I’m currently an engineering student at ENSAM Casablanca and at ALX and I am focusing on starting a journey and expanding my knowledge and skills in different areas mainly in Algorithms and web development...</p>
 <p>- 💞️ I’m looking to collaborate on any project that you think aligns with my interests and skills.</p>
 <p>- 📫 You can contact me through the following channels:</p>
-<a href="mailto:yassmineattar13@gmail.com" target="_blank" rel="noreferrer"><img src="https://1000logos.net/wp-content/uploads/2021/05/Gmail-logo.png" width="50" height="32" /></a>
 <a href="https://discord.com/users/yassmine004()" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
 <a href="https://www.linkedin.com/in/yassmine-attar-8bb1b9244/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 <h3 align="left">Languages and Tools:</h3>
